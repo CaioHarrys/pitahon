@@ -4,7 +4,7 @@ print("---CALCULO DOS SALARIOS---\n")
 
 
 #//INPUT DOS DADOS//
-vendedor_1=float(input("Quanto Emily veendeu no mês:R$ "))
+vendedor_1=float(input("Quanto Emily vendeu no mês:R$ "))
 
   
 vendedor_2=float(input("Quanto Larissa vendeu no mês:R$ "))
